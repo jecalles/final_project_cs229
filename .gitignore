@@ -1,7 +1,7 @@
 *.swp
 __pycache__
 src/__pycache__
-res/__pycache__
+res/*
 tests/__pycache__
 scripts/__pycache__
 notebooks/__pycache__
